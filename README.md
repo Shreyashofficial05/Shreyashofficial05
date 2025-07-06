@@ -1,6 +1,7 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" height="120" />
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" style="height: 150px; width: auto;" />
 </div>
+
 
 <h2 align="center">Hi 👋! I'm Shreyash Tripathi</h2>
 <p align="center">🚀 A passionate Web Developer & Machine Learning Enthusiast from India 🇮🇳</p>
