@@ -22,10 +22,10 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 3rd year Computer Science student passionate about full-stack web dev & machine learning.  
+- 🎓 Final year Computer Science student passionate about full-stack web dev & machine learning.  
 - 🧩 Love solving logic puzzles and made a terminal-based 2048 game in C++.  
 - 📚 Currently learning TypeScript, Docker, and HuggingFace Transformers.  
-- 🏆 Built a DL-based image colorizer, solved 280+ LeetCode problems, and developing **DERMAVUE** – an AI-powered skin diagnosis app.
+- 🏆 Built a DL-based image colorizer, solved 400+ LeetCode problems, and developing **DERMAVUE** – an AI-powered skin diagnosis app.
 - 💡 Fun Fact: The first website ever is still live! It was created by Tim Berners-Lee in 1991 and lives at 👉<a href="http://info.cern.ch" target="_blank">info.cern.ch</a>
 
 ---
