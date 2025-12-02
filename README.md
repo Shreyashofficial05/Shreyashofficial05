@@ -51,10 +51,3 @@
   <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=for-the-badge" height="30"/>
 </p>
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Shreyashofficial05&layout=compact&langs_count=6&theme=dracula&hide_border=false" height="150" />
-</p>
